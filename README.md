@@ -1,5 +1,3 @@
-I help investment firms develop and execute data and analytics strategies at <a href="https://www.cutterassociates.com/" target="_blank">Cutter Associates</a>.
-
 Find me on <a href="https://www.linkedin.com/in/jasoninzer" target="_blank">LinkedIn</a>.
 
 <!---
